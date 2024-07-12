@@ -50,11 +50,11 @@ This project is a fully functional chess engine implemented in Python using the 
 
 
 ### 1. The Naive Algorithm:
-- ** Generating all the possible moves.
-- ** Making the move.
-- ** Generating all the opponent's move.
-- ** For each of the opponent's move, see if they attack your king.
-- ** If they do attack your king, it's not a valid move.
+- Generating all the possible moves.
+- Making the move.
+- Generating all the opponent's move.
+- For each of the opponent's move, see if they attack your king.
+- If they do attack your king, it's not a valid move.
 
 
 ## Acknowledgements
